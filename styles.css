@@ -22,3 +22,9 @@ header .navbar{
     text-align: center;
     padding: 20px 0;
 }
+header nav ul{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+}
+
