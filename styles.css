@@ -38,3 +38,16 @@ header nav ul li a{
     font-weight: 16px;
     color: rgb(22, 15, 128);
 }
+header nav ul li a:hover{
+    color: rgb(255, 0, 98);
+}
+
+.text{
+    width: 100%;
+    height: calc(100vh - 100px);
+    background-image: url('images/pexels-vojtech-okenka-392018.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: table;
+}
