@@ -56,3 +56,15 @@ header nav ul li a:hover{
     vertical-align: middle;
 
 }
+.text h2 span{
+    color: rgb(8, 2, 22);
+}
+.text h2{
+    font-family: sans-serif;
+    font-weight: 60px;
+    font-weight: 900;
+    line-height: 70px;
+    text-shadow: 2px 2px 8px #111;
+    color: #fff;
+    text-align: center;
+}
