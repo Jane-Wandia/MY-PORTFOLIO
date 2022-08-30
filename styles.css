@@ -114,3 +114,14 @@ header nav ul li a:hover{
     margin-bottom: 25px;
     letter-spacing: 2px;
 }
+span{
+    color: crimson;
+}
+
+.about-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
