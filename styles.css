@@ -106,3 +106,11 @@ header nav ul li a:hover{
     text-transform: capitalize;
     margin-bottom: 20px;
 }
+
+.about-text h3{
+    color: white;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
