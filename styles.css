@@ -45,7 +45,7 @@ header nav ul li a:hover{
 .text{
     width: 100%;
     height: calc(100vh - 100px);
-    background-image: url('images/pexels-vojtech-okenka-392018.jpg');
+    background-image: url('image/IMG_20220408_184849_503.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -88,4 +88,15 @@ header nav ul li a:hover{
     height: auto;
     width: 500px;
     height: calc(100vh - 100px);
+}
+.about-text{
+    width: 550px;
+}
+.main{
+    width: 1130px;
+    max-width: 95;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
