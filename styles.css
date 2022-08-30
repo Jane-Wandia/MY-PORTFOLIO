@@ -51,3 +51,8 @@ header nav ul li a:hover{
     background-size: cover;
     display: table;
 }
+.text-content{
+    display: table-cell;
+    vertical-align: middle;
+
+}
