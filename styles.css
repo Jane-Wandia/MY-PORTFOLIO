@@ -135,3 +135,8 @@ button{
     border-radius: 30px;
     transition: .4s;
 }
+utton:hover{
+    background: transparent;
+    border: 2px solid#f9004d;
+    cursor: pointer;
+}
