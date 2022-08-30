@@ -78,3 +78,14 @@ header nav ul li a:hover{
     color: #fff;
     text-align: center;
 }
+.about{
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #191919;
+}
+
+.about img{
+    height: auto;
+    width: 500px;
+    height: calc(100vh - 100px);
+}
